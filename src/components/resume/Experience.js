@@ -18,13 +18,13 @@ const Experience = () => {
             title="Full Stack Development Intern"
             subTitle="Nuvizz Inc"
             result="Jun 2024 - Aug 2024"
-            des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+            des="Designed and developed a data purger component into the developer dashboard. I was given creative freedom with the UI and it allowed me to advance my front end skillset significanty. Additonally, I was able to gain valuable experience with MongoDB and NodeJS as tested and devloped the databases and backend."
           />
           <ResumeCard
             title="Software Engineering Intern"
             subTitle="Nuvizz Inc"
             result="Jun 2021 - Jan 2022"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
+            des="Using the tesseract OCR engine, I created an application that would allow delivery drivers to take pictures of their delivery form and receive the signficant data from it in a digital ticket. This would essentially make the delivery process paperless for the driver."
           />
         </div>
       </div>
